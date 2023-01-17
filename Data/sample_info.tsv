@@ -1,0 +1,11 @@
+	condition	sample
+Control_Rep1	control 	control
+Control_Rep2	control 	control
+sgRNA6_D3_Rep1	sgRNA_d3	sgRNA6_D3
+sgRNA6_D3_Rep2	sgRNA_d3	sgRNA6_D3
+sgRNA7_D3_Rep1	sgRNA_d3	sgRNA7_D3
+sgRNA7_D3_Rep2	sgRNA_d3	sgRNA7_D3
+sgRNA6_D5_Rep1  	sgRNA_d5	sgRNA6_D5
+sgRNA6_D5_Rep2	sgRNA_d5	sgRNA6_D5
+sgRNA7_D5_Rep1	sgRNA_d5	sgRNA7_D5
+sgRNA7_D5_Rep2	sgRNA_d5	sgRNA7_D5
