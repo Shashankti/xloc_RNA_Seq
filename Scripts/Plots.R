@@ -30,7 +30,7 @@ select <- order(rowMeans(counts(dds_2f,normalized=TRUE)),
 
 #$PCA Plots
 
-pcaData <- plotPCA(vsd,intgroup=c("condition"),returnData=T)
+pcaData <- plotPCA(vsd,intgroup=c("sample"),returnData=F)
 pcaData
 percentVar <- round(100 * attr(pcaData, "percentVar"))
 vst_pca_plot <- ggplot(pcaData, aes(x = PC1, y = PC2, color = condition)) +
